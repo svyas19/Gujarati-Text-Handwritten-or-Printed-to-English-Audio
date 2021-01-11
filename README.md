@@ -31,6 +31,11 @@ This system also has a feature of conversion of identified Gujarati text into En
 
 ![Dataset 1](https://github.com/svyas19/Gujarati-Text-Handwritten-or-Printed-to-English-Audio/blob/main/Dataset1.jpg)</br>
 
+
+##### Cropped & Preprocessed Images
+![Dataset5](https://github.com/svyas19/Gujarati-Text-Handwritten-or-Printed-to-English-Audio/blob/main/Dataset5.png)</br>
+
+
 #### Results & UI
 
 ##### Web App
