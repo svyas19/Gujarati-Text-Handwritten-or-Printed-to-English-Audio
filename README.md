@@ -20,7 +20,7 @@ This system also has a feature of conversion of identified Gujarati text into En
 
 ### The dataset was collected and Created Manually from 100+ people with total of nearly 40,000 Handwritten and Printed Gujarati Text.</br>
 
-#### Data Aquisition : The following Structure was created and people were asked to write the printed letter so that , printed and handwritten dataset both can be created.</br>
+#### Data Acquisition : The following Structure was created and people were asked to write the printed letter so that , printed and handwritten dataset both can be created.</br>
 
 #### Data Collection Structure
 
