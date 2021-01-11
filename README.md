@@ -22,9 +22,25 @@ This system also has a feature of conversion of identified Gujarati text into En
 
 #### Data Aquisition : The following Structure was created and people were asked to write the printed letter so that , printed and handwritten dataset both can be created.</br>
 
+#### Data Collection Structure
+
 ![Dataset4](https://github.com/svyas19/Gujarati-Text-Handwritten-or-Printed-to-English-Audio/blob/main/Dataset4.png)</br>
 
+
+#### Collected Data
+
 ![Dataset 1](https://github.com/svyas19/Gujarati-Text-Handwritten-or-Printed-to-English-Audio/blob/main/Dataset1.jpg)</br>
+
+#### Results & UI
+
+##### Web App
+
+![Results](https://github.com/svyas19/Gujarati-Text-Handwritten-or-Printed-to-English-Audio/blob/main/Result.png)</br>
+
+
+##### Mobile App
+
+![mobileresults](https://github.com/svyas19/Gujarati-Text-Handwritten-or-Printed-to-English-Audio/blob/main/mobileresults.png)</br>
 
 
 
