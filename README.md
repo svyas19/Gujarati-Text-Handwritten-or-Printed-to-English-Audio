@@ -1,4 +1,4 @@
-# Gujarati-Text-or-Handwritten-Printed-Recognition-to-English-Audio-60-labels
+# Gujarati-Text-Handwritten-or-Printed-Recognition-to-English-Audio-60-labels
 
 
 ## Abstract</br></br>
